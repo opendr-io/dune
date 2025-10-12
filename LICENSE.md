@@ -1,4 +1,4 @@
-Copyright (C) 2024 by Craig Chamberlain, Meena Vyas and the Cyberdyne Ventures research group.
+Copyright (C) 2024 by Craig Chamberlain, Meena Vyas and the openDR research group.
 
 Sharing is permitted — users may copy and redistribute the material in any medium or format.
 Adaptation is permitted — users may remix, transform, and build upon the material.
