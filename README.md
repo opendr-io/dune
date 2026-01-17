@@ -1,4 +1,4 @@
-![things](/img/desert.png?raw=true "text")  
+![things](/img/dlogo-small.jpg?raw=true "text")  
 # DUNE 
 ### (discovery of novel unseen events)
 A project for cloud threat hunting using a combination of anomaly detection, machine learning, and specification-based detection.
