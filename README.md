@@ -1,9 +1,13 @@
 ![things](/img/dlogo-small.jpg?raw=true "text")  
 # DUNE 
 ### (discovery of novel unseen events)
-A project for cloud threat hunting using a combination of anomaly detection, machine learning, and specification-based detection.
+A project for cloud threat hunting using a combination of anomaly detection, machine learning, and specification-based detection. This toolkit has been battle tested at great scale.
 
 #### Contents
+
+AI Tools
+
+- a set of Python scripts for ingesting all available logs from VSCode and derivatives - Cursor and Windsurf
 
 Cloudtrail
 
@@ -26,6 +30,8 @@ Jupyter
 - a notebook using k-means to do anomaly detection
 - a notebook containing a proof of concept of a compression / de-duplication method for threat hunting in cloudtrail events
 - a sanitized cloudtrail dataset containing a few target outlier events, which these notebooks process by default
+- notebooks for ingesting CloudTrail directly from S3
+- a notebook for enumerating IPs associated with an account (to look for activity coming from someone else's account)
 
 Getting Started With Jupyter:
 
