@@ -1,0 +1,10 @@
+boto3
+ipywidgets
+pandas
+pyod
+python-dotenv
+tensorflow
+seaborn
+scikit-learn
+torch
+xgboost
