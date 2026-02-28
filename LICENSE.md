@@ -2,7 +2,7 @@ Copyright (C) 2024 by Craig Chamberlain, Meena Vyas and the by the openDR projec
 
 1. Definitions
 
-“Work” means the MUE materials made available by Licensor, including documentation, specifications, text, data, models, software, and related materials.
+“Work” means the openDR materials made available by Licensor, including documentation, specifications, text, data, models, software, and related materials.
 
 “Licensor” means Affirmer.
 
