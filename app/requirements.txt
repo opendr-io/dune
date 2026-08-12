@@ -1,0 +1,15 @@
+streamlit>=1.61
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+pyarrow>=14.0
+matplotlib>=3.8
+seaborn>=0.13
+pyod>=2.0
+pyvis>=0.3
+ipwhois>=1.2
+
+# Optional, only needed for the PyOD DIF / LUNAR models (leave installed or
+# remove to keep the app image smaller - those two models are skipped
+# automatically if torch is unavailable).
+torch>=2.2
