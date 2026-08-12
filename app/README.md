@@ -2,7 +2,7 @@
 
 A [Databricks App](https://docs.databricks.com/en/dev-tools/databricks-apps/index.html)
 version of the four DUNE threat-hunting notebooks in the parent
-[Databrics-Notebooks](..) folder. It's a multi-page Streamlit app: load a
+[Databricks-Notebooks](..) folder. It's a multi-page Streamlit app: load a
 CloudTrail-style (or any tabular log) dataset once on the home page, then use
 the sidebar to run clustering/ensemble anomaly detection and explore results
 interactively, instead of editing notebook cells by hand.
@@ -43,7 +43,7 @@ file, grant the app's service principal read access to the Volume and enter
 its path (e.g. `/Volumes/catalog/schema/volume/cloudtrail.parquet`) on the
 home page.
 
-### Using App From Databrikcs
+### Using App From Databricks
 After deploying, you can reach the app's UI two ways:
 
 In the workspace UI:
